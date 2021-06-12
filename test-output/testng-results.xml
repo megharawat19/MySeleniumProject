@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-13T01:53:32 IST" name="SequenceTest" finished-at="2021-06-13T01:53:44 IST" duration-ms="11871">
+    <groups>
+    </groups>
+    <test started-at="2021-06-13T01:53:32 IST" name="Test1" finished-at="2021-06-13T01:53:44 IST" duration-ms="11871">
+      <class name="com.qa.TestScript.TestClass">
+        <test-method signature="addressbook()[pri:0, instance:com.qa.TestScript.TestClass@3738449f]" started-at="2021-06-13T01:53:32 IST" name="addressbook" finished-at="2021-06-13T01:53:44 IST" duration-ms="11786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressbook -->
+      </class> <!-- com.qa.TestScript.TestClass -->
+    </test> <!-- Test1 -->
+  </suite> <!-- SequenceTest -->
+</testng-results>

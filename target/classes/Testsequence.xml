@@ -1,0 +1,7 @@
+<suite name="SequenceTest" verbose="1">
+<test name="Test1">
+<classes>
+<class name="com.qa.TestScript.TestClass"/>
+</classes>
+</test>
+</suite>
